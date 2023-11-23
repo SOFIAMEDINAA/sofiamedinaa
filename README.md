@@ -1,6 +1,5 @@
-# Hi! 
 
-## Hola soy Sofia, soy developer !
+## Hola soy Sofia, soy developer !👋
 
 - [Pagina de iconos](https://github.com/tandpfun/skill-icons)
 
