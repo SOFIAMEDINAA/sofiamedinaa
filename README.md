@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi! 
+
+## Ejemplo de README para perfil de github
+
+- [Pagina de iconos](https://github.com/tandpfun/skill-icons)
+
+- Lenguajes: [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://github.com/Erick-C3)
+- Tecnologias: [![My Skills](https://skillicons.dev/icons?i=git,nodejs,mysql)](https://github.com/Erick-C3)
+- Framework: [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,react)](https://github.com/Erick-C3)
+
+- [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 <!--
 **SOFIAMEDINAA/sofiamedinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
