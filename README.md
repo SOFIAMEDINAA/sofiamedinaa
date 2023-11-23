@@ -1,6 +1,6 @@
 # Hi! 
 
-## Ejemplo de README para perfil de github
+## Hola soy Sofia, soy developer !
 
 - [Pagina de iconos](https://github.com/tandpfun/skill-icons)
 
