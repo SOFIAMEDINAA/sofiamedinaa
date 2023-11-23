@@ -3,9 +3,9 @@
 
 - [Pagina de iconos](https://github.com/tandpfun/skill-icons)
 
-- Lenguajes: [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://github.com/Erick-C3)
-- Tecnologias: [![My Skills](https://skillicons.dev/icons?i=git,nodejs,mysql)](https://github.com/Erick-C3)
-- Framework: [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,react)](https://github.com/Erick-C3)
+- Lenguajes: [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://github.com/sofiamedinaa)
+- Tecnologias: [![My Skills](https://skillicons.dev/icons?i=git,nodejs,mysql)](https://github.com/sofiamedinaa)
+- Framework: [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,react)](https://github.com/sofiamedinaa)
 
 - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
